@@ -1,0 +1,5 @@
+@startuml
+class FibonacciDynamic {
+    + dynamicProgramming(n: int): int
+}
+@enduml

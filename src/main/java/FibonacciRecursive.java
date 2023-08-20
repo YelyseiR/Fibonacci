@@ -6,3 +6,13 @@ public class FibonacciRecursive {
         return recursive(n - 1) + recursive(n - 2);
     }
 }
+
+
+/**
+ * FibonacciRecursive
+ *
+ * Time complexity O(2^n)
+ *
+ * Space complexity O(n)
+ *
+ */
